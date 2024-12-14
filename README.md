@@ -16,16 +16,6 @@ Axios: For fetching data from the OpenWeather API.
 CSS: For styling and responsive design.
 
 
-🚀 How to Run
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/weather-app.git
-Navigate to the project directory:
-bash
-Copy code
-cd weather-app
-
 Install dependencies:
 bash
 Copy code
