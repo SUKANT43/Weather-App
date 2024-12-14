@@ -34,6 +34,10 @@ Open the app in your browser:https://weather-website-api2.netlify.app
 ![WhatsApp Image 2024-12-14 at 16 47 06_e2542630](https://github.com/user-attachments/assets/67717fa8-415c-4431-9bad-f969c1c07dcd)
 
 
+https://github.com/user-attachments/assets/a4749220-d260-469c-b0ff-8fc0ffe9c2df
+
+
+
 🌟 Future Enhancements
 Hourly and 7-day forecast.
 Geolocation support to auto-detect the user's location.
