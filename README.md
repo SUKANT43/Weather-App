@@ -41,11 +41,10 @@ Copy code
 npm start
 
 Open the app in your browser:
-arduino
-Copy code
+
 http://localhost:3000
-📷 Screenshots
-(Add screenshots or a demo gif of your app here)
+![WhatsApp Image 2024-12-14 at 16 47 06_e2542630](https://github.com/user-attachments/assets/67717fa8-415c-4431-9bad-f969c1c07dcd)
+
 
 🌟 Future Enhancements
 Hourly and 7-day forecast.
