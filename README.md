@@ -31,8 +31,7 @@ Copy code
 npm start
 
 Open the app in your browser:
-
-http://localhost:3000
+weather-website-api2.netlify.app
 ![WhatsApp Image 2024-12-14 at 16 47 06_e2542630](https://github.com/user-attachments/assets/67717fa8-415c-4431-9bad-f969c1c07dcd)
 
 
